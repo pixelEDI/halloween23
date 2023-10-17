@@ -2,7 +2,11 @@
 
 🎃👻 I've brewed up an eerie Arduino Uno project with a minuscule ghost doing the "spin of the afterlife" on a 3.3V motor. It's so spook-tacular, even Frankenstein would give it a thumbs-up! Dive into the code cauldron if you dare 💻🕸️🧙‍♂️
 
-<img src="https://github.com/pixelEDI/halloween23/blob/2d2dc33efc30eb245d9a7dbb5620bca13e42640b/ghosty.jpg" width="300">
+<img src="https://github.com/pixelEDI/halloween23/blob/2d2dc33efc30eb245d9a7dbb5620bca13e42640b/ghosty.jpg" 
+width="300">
+
+## Ghost in Action
+[https://youtube.com/shorts/KIxZ6SwZeog](https://youtube.com/shorts/KIxZ6SwZeog)
 
 ## Code
 
