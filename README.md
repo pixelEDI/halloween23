@@ -21,7 +21,7 @@
 - LED and Resistors
 
 
-<img src="https://github.com/pixelEDI/halloween23/blob/2d2dc33efc30eb245d9a7dbb5620bca13e42640b/wiring_halloween23_Steckplatine.jpg" width="300">
+<img src="https://github.com/pixelEDI/halloween23/blob/2d2dc33efc30eb245d9a7dbb5620bca13e42640b/wiring_halloween23_Steckplatine.jpg" width="600">
 
 ## 3D Case
 
