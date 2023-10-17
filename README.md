@@ -27,8 +27,8 @@ width="300">
 
 <img src="https://github.com/pixelEDI/halloween23/blob/2d2dc33efc30eb245d9a7dbb5620bca13e42640b/wiring_halloween23_Steckplatine.jpg" width="600">
 
-## 3D Case
+## 3D Print
 
-Get the Case:    https://www.printables.com/de/@pixelEDI_563201
+Get the 3D files: https://www.printables.com/de/model/617878-spinning-ghost
 
 You like it? Then I would be very happy if you treat me to a coffee on [ko-fi.com/pixeledi](https://www.ko-fi.com/pixeledi)
